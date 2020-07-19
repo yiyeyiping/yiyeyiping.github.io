@@ -286,7 +286,7 @@ blockquote {
     border-width: 0 0 0 5px;
     border-color: #999;
     background-color: #f3f3f1;
-    text-align: center;
+    /* text-align: center; */
 }
 
 blockquote.left {
