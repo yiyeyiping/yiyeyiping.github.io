@@ -280,7 +280,7 @@ footer a {
 }
 
 blockquote {
-    padding: 0.1rem 2rem 1rem;
+    padding: 3px 3px;
     border-style: solid;
     border-radius: 5px;
     border-width: 0 0 0 5px;
